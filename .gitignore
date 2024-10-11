@@ -1,0 +1,27 @@
+# Ignore build artifacts
+build/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.cmake
+Makefile
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore external libraries
+lib/
+raylib/
+ffmpeg/
+
+# Ignore binary output
+bin/
+list.txt
+

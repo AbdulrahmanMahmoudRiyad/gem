@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "env.h": "c",
+        "string.h": "c",
+        "stdint.h": "c",
+        "raylib.h": "c",
+        "assert.h": "c"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}
